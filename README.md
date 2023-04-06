@@ -1,1 +1,1 @@
-# GeeksForGeeks
+# Coding Platforms
